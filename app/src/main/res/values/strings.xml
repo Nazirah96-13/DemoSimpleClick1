@@ -4,5 +4,8 @@
     <string name="editTextInput"></string>
     <string name="textViewDisplay">Display what user enters</string>
     <string name="enter_something">Enter something</string>
-    <string name="show">show</string>
+    <string name="show">Display what user enters</string>
+    <string name="toggleButtonEnabled">ON</string>
+    <string name="disabled">disabled</string>
+    <string name="enabled">enabled</string>
 </resources>
